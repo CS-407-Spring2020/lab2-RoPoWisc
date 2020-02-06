@@ -44,7 +44,7 @@
         android:layout_marginRight="99dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Enter amount in dollars"
+        android:text="Enter Name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtDemo" />
